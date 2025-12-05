@@ -1,2 +1,1 @@
-heloo all
-iam hari
+hari.txt file
